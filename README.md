@@ -8,7 +8,7 @@ A production-grade, object-oriented ABAP validation engine designed to enforce d
 * **Key Skills:** OO-ABAP, SAP MM/QM Integration, Encapsulation, Clean Code, Data Governance.
 * **View Code:** [GitHub Repository](https://github.com/SunUlAlam/sap-abap-material-validator)
 
-### 📊 [Live Interactive Data Analytics Dashboard]([https://YOUR_STREAMLIT_APP_URL.streamlit.app](https://sap-qm-kpi-dashboard-vhbpbrnsu6nwlqcbgpq32o.streamlit.app/))
+### 📊 [Live Interactive Data Analytics Dashboard](https://YOUR_STREAMLIT_APP_URL.streamlit.app](https://sap-qm-kpi-dashboard-vhbpbrnsu6nwlqcbgpq32o.streamlit.app/)
 A live web application built to analyze and visualize enterprise data trends dynamically.
 * **Key Skills:** Python, Streamlit, Data Visualization, Cloud Deployment.
 * **Launch App:** (https://sap-qm-kpi-dashboard-vhbpbrnsu6nwlqcbgpq32o.streamlit.app/)
