@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Sunzid Ul Alam 👋
+Welcome to my SAP development and data analytics portfolio! Below are featured projects showcasing my technical expertise across SAP ecosystems, custom development, and business intelligence.
 
-<!--
-**SunUlAlam/SunUlAlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Featured Portfolio Projects
 
-Here are some ideas to get you started:
+### 🏗️ [SAP S/4HANA OO-ABAP Material Master Validator](https://github.com)
+A production-grade, object-oriented ABAP validation engine designed to enforce data integrity across SAP MM and QM modules before database updates.
+* **Key Skills:** OO-ABAP, SAP MM/QM Integration, Encapsulation, Clean Code, Data Governance.
+* **View Code:** [GitHub Repository](https://github.com/SunUlAlam/sap-abap-material-validator)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 [Live Interactive Data Analytics Dashboard]
+A live web application built to analyze and visualize enterprise data trends dynamically.
+* **Key Skills:** Python, Streamlit, Data Visualization, Cloud Deployment.
+* **Live Streamlit App:** (https://sap-qm-kpi-dashboard-vhbpbrnsu6nwlqcbgpq32o.streamlit.app/))
+
+---
+📫 Check out my repositories to see my latest development work!
