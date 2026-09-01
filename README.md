@@ -8,7 +8,7 @@ A production-grade, object-oriented ABAP validation engine designed to enforce d
 * **Key Skills:** OO-ABAP, SAP MM/QM Integration, Encapsulation, Clean Code, Data Governance.
 * **View Code:** [GitHub Repository](https://github.com/SunUlAlam/sap-abap-material-validator)
 
-### 🔍 Python SAP Log File & Error Parser
+### Python SAP Log File & Error Parser
 - **Key Skills:** Python, Regex, Pandas, Automation.
 - **View Code:** [GitHub Repository](https://github.com/SunUlAlam/sap-log-file-parser)
 
