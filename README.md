@@ -9,6 +9,7 @@ A production-grade, object-oriented ABAP validation engine designed to enforce d
 * **View Code:** [GitHub Repository](https://github.com/SunUlAlam/sap-abap-material-validator)
 
 ### Python SAP Log File & Error Parser
+This technical Python automation tool consumes unstructured text-based log streams, parses transaction contexts via **Regular Expressions (Regex)**, and filters out system exceptions to generate an explicit, categorized Excel sheet for immediate incident management response.
 - **Key Skills:** Python, Regex, Pandas, Automation.
 - **View Code:** [GitHub Repository](https://github.com/SunUlAlam/sap-log-file-parser)
 
