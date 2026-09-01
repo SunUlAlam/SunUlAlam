@@ -11,7 +11,7 @@ A production-grade, object-oriented ABAP validation engine designed to enforce d
 ### 📊 [Live Interactive Data Analytics Dashboard]([https://YOUR_STREAMLIT_APP_URL.streamlit.app](https://sap-qm-kpi-dashboard-vhbpbrnsu6nwlqcbgpq32o.streamlit.app/))
 A live web application built to analyze and visualize enterprise data trends dynamically.
 * **Key Skills:** Python, Streamlit, Data Visualization, Cloud Deployment.
-* **Live Streamlit App:** (https://sap-qm-kpi-dashboard-vhbpbrnsu6nwlqcbgpq32o.streamlit.app/)
+* **Launch App:** (https://sap-qm-kpi-dashboard-vhbpbrnsu6nwlqcbgpq32o.streamlit.app/)
 
 ---
 📫 Check out my repositories to see my latest development work!
