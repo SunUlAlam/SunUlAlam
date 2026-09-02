@@ -6,7 +6,7 @@ Welcome to my SAP development and data analytics portfolio! Below are featured p
 ### 1. SAP S/4HANA OO-ABAP Material Master Validator
 A production-grade, object-oriented ABAP validation engine designed to enforce data integrity across SAP MM and QM modules before database updates.
 * **Key Skills:** OO-ABAP, SAP MM/QM Integration, Encapsulation, Clean Code, Data Governance.
-* ** Link:** [View Source Code on GitHub](https://github.com/SunUlAlam/sap-abap-material-validator)
+* [View Source Code on GitHub](https://github.com/SunUlAlam/sap-abap-material-validator)
 
 ### 2. SAP S/4HANA BAdI Enhancement Simulation
 A custom Object-Oriented ABAP implementation utilizing the SAP Enhancement Framework to automate process escalation flags on inspection log entities.
