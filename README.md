@@ -41,7 +41,7 @@ A custom Object-Oriented ABAP implementation utilizing the SAP Enhancement Frame
 ### 3. Python SAP Log File & Error Parser
 This technical Python automation tool consumes unstructured text-based log streams, parses transaction contexts via Regular Expressions (Regex), and filters out system exceptions to generate a clean, categorized Excel sheet for immediate incident management response.
 * **Key Skills:** Python, Regex, Pandas, Automation.
-* **🔗 Link:** [View Source Code on GitHub](https://sap-qm-kpi-dashboard-vhbpbrnsu6nwlqcbgpq32o.streamlit.app/)
+* **🔗 Link:** [View Source Code on GitHub](https://github.com/SunUlAlam/sap-log-file-parser)
 
 ### 4. Interactive Data Analytics Dashboard
 A live web application built to analyze, clean, and visualize enterprise SAP QM quality data trends dynamically.
