@@ -1,4 +1,4 @@
-# Hi, I'm Sunzid Ul Alam 
+# Hi, I'm Alam 
 Welcome to my SAP development and data analytics portfolio! Below are featured projects showcasing my technical expertise across SAP ecosystems, custom object-oriented development, and business intelligence.
 
 ## Featured Portfolio Projects
@@ -24,7 +24,7 @@ A live web application built to analyze, clean, and visualize enterprise SAP QM 
 * [Launch Live Web Application](https://sap-qm-kpi-dashboard-vhbpbrnsu6nwlqcbgpq32o.streamlit.app/)
 
 ---
-**Contact:** ulalamsunzid@gmail.com | Freiberg, Germany
+
 
 
 
